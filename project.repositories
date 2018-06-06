@@ -3,9 +3,9 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>guvnor-m2-repo</id>
-        <url>file://C:\Users\HP\Desktop\Shestakus\pv207-bpm-master\repositories\kie\global</url>
-        <source>PROJECT</source>
+        <id>local</id>
+        <url>C:\Users\xcvejn/.m2/repository</url>
+        <source>LOCAL</source>
       </metadata>
     </repository>
     <repository>
@@ -19,9 +19,9 @@
     <repository>
       <include>true</include>
       <metadata>
-        <id>local</id>
-        <url>C:\Users\xcvejn/.m2/repository</url>
-        <source>LOCAL</source>
+        <id>guvnor-m2-repo</id>
+        <url>file://C:\Users\HP\Desktop\Shestakus\pv207-bpm-master\repositories\kie\global</url>
+        <source>PROJECT</source>
       </metadata>
     </repository>
   </repositories>
