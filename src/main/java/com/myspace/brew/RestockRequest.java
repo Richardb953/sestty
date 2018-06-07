@@ -53,6 +53,7 @@ public class RestockRequest implements java.io.Serializable {
 		this.amountOfKegged10 = amountOfKegged10;
 		this.amountOfKegged12 = amountOfKegged12;
 	}
+	
 	public String toString(){
 	    return " Please deliver these items into warehouse:\n" +
 	    "Bottled 10: "+ this.amountOfBottled10 + "\n" +
